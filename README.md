@@ -41,8 +41,8 @@ This project is a web-based University Management System for the University of S
 - `unilogo.png` - University logo
 
 ## Authors
-- Farshid
-- Farsad
+- Farshid Farahtaj 
+- Farsad Ghane Kia
 
 ## License
 This project is for educational purposes.
