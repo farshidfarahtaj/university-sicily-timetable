@@ -19,7 +19,7 @@ This project is a web-based University Management System for the University of S
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/university-sicily.git
+   git clone https://github.com/farshidfarahtaj/university-sicily-timetable
    ```
 2. Import the MySQL database (see `db.php` for connection details).
 3. Place the project files in your web server directory (e.g., `htdocs` for XAMPP).
