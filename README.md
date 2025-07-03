@@ -36,7 +36,7 @@ This project is a web-based University Management System for the University of S
 - `LeftSidebar.php` - Sidebar component
 - `db.php` - Database connection
 - `User.php` - User class
-- `style.css`, `left-sidebar.css`, `sidebar.css` - Stylesheets
+- `style.css`, `left-sidebar.css` - Stylesheets
 - `scripts.js` - JavaScript functionality
 - `unilogo.png` - University logo
 
